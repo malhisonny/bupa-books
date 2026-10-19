@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Jane",
+    "age": 23,
+    "books": [
+      { "name": "The Hobbit", "type": "Hardcover" },
+      { "name": "Anna Karenina", "type": "Paperback" },
+      { "name": "dune", "type": "Hardcover" }
+    ]
+  },
+  {
+    "name": "Tim",
+    "age": 17,
+    "books": [
+      { "name": "Matilda", "type": "Hardcover" },
+      { "name": "Charlotte's Web", "type": "Paperback" },
+      { "name": "The Hobbit", "type": "Paperback" }
+    ]
+  },
+  {
+    "name": "Sam",
+    "age": 18,
+    "books": [
+      { "name": "Zen and the Art of Motorcycle Maintenance", "type": "Paperback" },
+      { "name": "Emma", "type": "Hardcover" }
+    ]
+  },
+  {
+    "name": "Mia",
+    "age": 9,
+    "books": [
+      { "name": "Green Eggs and Ham", "type": "Hardcover" },
+      { "name": "Where the Wild Things Are", "type": "Hardcover" }
+    ]
+  },
+  { "name": "Bob", "age": 45, "books": null }
+]
